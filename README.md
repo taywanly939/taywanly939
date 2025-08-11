@@ -2,7 +2,7 @@
 
 # ![Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Ali+Yaser;Front-End+Developer+In+Training;Welcome+To+My+GitHub!)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
 ---
 
